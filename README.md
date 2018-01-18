@@ -1,0 +1,2 @@
+# netcore
+repository.netcore
